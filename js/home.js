@@ -63,8 +63,7 @@
 
   function renderFeatured() {
     document.getElementById("featured-questions").innerHTML = FEATURED.map(f =>
-      '<div class="q-item"><div class="q-mark">?</div>' +
-      '<div class="q-text">' + Render.esc(f.q) + '</div>' +
+      '<div class="q-item"><div class="q-text">' + Render.esc(f.q) + '</div>' +
       '<a class="q-link" href="reader.html?ch=' + f.target + '">进入对应章节 →</a></div>'
     ).join("");
   }

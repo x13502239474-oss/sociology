@@ -150,8 +150,7 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
   background: var(--ink-forest); border: 1px solid var(--line-dark);
   border-radius: 8px; padding: 16px;
 }
-.q-item .q-mark { color: var(--accent); font-family: var(--serif); font-size: 20px; }
-.q-item .q-text { color: var(--paper); font-size: 15px; margin-top: 6px; line-height: 1.6; }
+.q-item .q-text { color: var(--paper); font-size: 15px; line-height: 1.6; }
 .q-item .q-link { color: var(--accent); font-size: 12px; margin-top: 10px; display: inline-block; letter-spacing: .05em; }
 
 /* ---------- 课程目录 ---------- */
