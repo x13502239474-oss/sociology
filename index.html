@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+  <meta name="theme-color" content="#182B27">
+  <title>SOCIOLOGY · The Science of Society</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+  <!-- 顶栏 -->
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="index.html">
+        <span class="wordmark">SOCIOLOGY</span>
+        <span class="sub">The Science of Society</span>
+      </a>
+      <div class="topbar-actions">
+        <button class="icon-btn" id="btn-search" aria-label="搜索">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="container">
+      <div class="eyebrow hero-kicker">Western Academic Sociology Archive</div>
+      <h1 class="hero-title">SOCIOLOGY<br><span class="of">The Science of Society</span></h1>
+      <div class="hero-rule"></div>
+      <p class="hero-sub">理解社会结构、权力关系、人类行为与现代社会的运行逻辑。</p>
+
+      <div class="dash-grid">
+        <div class="dash-cell">
+          <div class="num" id="dash-progress">0%</div>
+          <div class="lbl">学习进度</div>
+        </div>
+        <div class="dash-cell">
+          <div class="num" id="dash-done">0<span class="unit">/38</span></div>
+          <div class="lbl">已完成章节</div>
+        </div>
+        <div class="dash-cell">
+          <div class="num" id="dash-time">0<span class="unit">分钟</span></div>
+          <div class="lbl">累计学习</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 当前状态 -->
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <h2 class="section-title"><span class="idx">CURRENT</span>当前学习</h2>
+      </div>
+      <div class="questions">
+        <div class="q-item" id="current-stage">
+          <div class="q-mark">»</div>
+          <div class="q-text" id="stage-text">正在加载…</div>
+        </div>
+        <div class="q-item">
+          <div class="q-mark">»</div>
+          <div class="q-text" id="recent-text">正在加载…</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 核心入口 -->
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <h2 class="section-title"><span class="idx">CORE</span>核心入口</h2>
+        <span class="section-note">六大部分</span>
+      </div>
+      <div class="entries" id="entries"></div>
+    </div>
+  </section>
+
+  <!-- 精选问题 -->
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <h2 class="section-title"><span class="idx">INQUIRY</span>精选社会学问题</h2>
+      </div>
+      <div class="questions" id="featured-questions"></div>
+    </div>
+  </section>
+
+  <!-- 课程目录 -->
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <h2 class="section-title"><span class="idx">SYLLABUS</span>课程目录</h2>
+        <span class="section-note">38 章 · 六大部分</span>
+      </div>
+      <div id="catalog"></div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="brand">
+        <span class="wordmark">SOCIOLOGY</span>
+        <span class="sub">The Science of Society</span>
+      </div>
+      <p>大学本科社会学核心课程 · 自学版<br>以吉登斯与萨顿《社会学》、米尔斯《社会学的想象力》、杨善华与谢立中《西方社会学理论》为核心知识来源。<br>所有学习进度、笔记、书签与错题仅保存在本机浏览器中。</p>
+    </div>
+  </footer>
+
+  <script src="js/store.js"></script>
+  <script src="js/util.js"></script>
+  <script src="js/home.js"></script>
+</body>
+</html>

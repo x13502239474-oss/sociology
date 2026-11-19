@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "title": "SOCIOLOGY · The Science of Society",
+    "subtitle": "理解社会结构、权力关系、人类行为与现代社会的运行逻辑。",
+    "edition": "大学本科社会学核心课程 · 自学版"
+  },
+  "parts": [
+    {
+      "id": "part1",
+      "num": "I",
+      "en": "FOUNDATIONS",
+      "zh": "社会学导论",
+      "chapters": [
+        { "no": 1, "id": "ch01", "title": "什么是社会学", "src": "吉登斯、萨顿《社会学》", "done": true },
+        { "no": 2, "id": "ch02", "title": "社会学的起源与发展", "src": "吉登斯、萨顿《社会学》", "done": false },
+        { "no": 3, "id": "ch03", "title": "社会学研究方法", "src": "吉登斯、萨顿《社会学》", "done": false },
+        { "no": 4, "id": "ch04", "title": "社会学理论与分析框架", "src": "吉登斯、萨顿《社会学》", "done": false }
+      ]
+    },
+    {
+      "id": "part2",
+      "num": "II",
+      "en": "SOCIAL STRUCTURE & RELATIONS",
+      "zh": "社会结构与社会关系",
+      "chapters": [
+        { "no": 5, "id": "ch05", "title": "社会化与社会互动", "src": "吉登斯、萨顿《社会学》", "done": false },
+        { "no": 6, "id": "ch06", "title": "社会群体与组织", "src": "吉登斯、萨顿《社会学》", "done": false },
+        { "no": 7, "id": "ch07", "title": "社会阶层与社会分层", "src": "吉登斯、萨顿《社会学》", "done": false },
+        { "no": 8, "id": "ch08", "title": "社会不平等", "src": "吉登斯、萨顿《社会学》", "done": false }
+      ]
+    },
+    {
+      "id": "part3",
+      "num": "III",
+      "en": "INSTITUTIONS & MODERN SOCIETY",
+      "zh": "社会制度与现代社会",
+      "chapters": [
+        { "no": 9, "id": "ch09", "title": "家庭、婚姻与亲属关系", "src": "吉登斯、萨顿《社会学》", "done": false },
+        { "no": 10, "id": "ch10", "title": "教育与社会", "src": "吉登斯、萨顿《社会学》", "done": false },
+        { "no": 11, "id": "ch11", "title": "经济与社会", "src": "吉登斯、萨顿《社会学》", "done": false },
+        { "no": 12, "id": "ch12", "title": "政治、权力与社会", "src": "吉登斯、萨顿《社会学》", "done": false },
+        { "no": 13, "id": "ch13", "title": "宗教与文化", "src": "吉登斯、萨顿《社会学》", "done": false },
+        { "no": 14, "id": "ch14", "title": "犯罪、偏差与社会控制", "src": "吉登斯、萨顿《社会学》", "done": false },
+        { "no": 15, "id": "ch15", "title": "人口、城市与环境", "src": "吉登斯、萨顿《社会学》", "done": false },
+        { "no": 16, "id": "ch16", "title": "全球化与现代性", "src": "吉登斯、萨顿《社会学》", "done": false }
+      ]
+    },
+    {
+      "id": "part4",
+      "num": "IV",
+      "en": "THE SOCIOLOGICAL IMAGINATION",
+      "zh": "社会学的想象力",
+      "chapters": [
+        { "no": 17, "id": "ch17", "title": "社会学想象力的基本概念", "src": "米尔斯《社会学的想象力》", "done": false },
+        { "no": 18, "id": "ch18", "title": "个人问题与社会问题", "src": "米尔斯《社会学的想象力》", "done": false },
+        { "no": 19, "id": "ch19", "title": "社会结构与历史分析", "src": "米尔斯《社会学的想象力》", "done": false },
+        { "no": 20, "id": "ch20", "title": "社会学研究者的思维方式", "src": "米尔斯《社会学的想象力》", "done": false }
+      ]
+    },
+    {
+      "id": "part5",
+      "num": "V",
+      "en": "CLASSICAL THEORY",
+      "zh": "西方社会学经典理论",
+      "chapters": [
+        { "no": 21, "id": "ch21", "title": "马克思社会学思想", "src": "杨善华、谢立中《西方社会学理论》", "done": false },
+        { "no": 22, "id": "ch22", "title": "涂尔干社会学思想", "src": "杨善华、谢立中《西方社会学理论》", "done": false },
+        { "no": 23, "id": "ch23", "title": "韦伯社会学思想", "src": "杨善华、谢立中《西方社会学理论》", "done": false },
+        { "no": 24, "id": "ch24", "title": "齐美尔社会学思想", "src": "杨善华、谢立中《西方社会学理论》", "done": false },
+        { "no": 25, "id": "ch25", "title": "帕森斯与结构功能主义", "src": "杨善华、谢立中《西方社会学理论》", "done": false },
+        { "no": 26, "id": "ch26", "title": "默顿的社会学理论", "src": "杨善华、谢立中《西方社会学理论》", "done": false },
+        { "no": 27, "id": "ch27", "title": "符号互动论", "src": "杨善华、谢立中《西方社会学理论》", "done": false },
+        { "no": 28, "id": "ch28", "title": "布迪厄社会学理论", "src": "杨善华、谢立中《西方社会学理论》", "done": false },
+        { "no": 29, "id": "ch29", "title": "吉登斯与现代社会理论", "src": "杨善华、谢立中《西方社会学理论》", "done": false },
+        { "no": 30, "id": "ch30", "title": "当代社会学理论的发展", "src": "杨善华、谢立中《西方社会学理论》", "done": false }
+      ]
+    },
+    {
+      "id": "part6",
+      "num": "VI",
+      "en": "SPECIAL TOPICS & SYNTHESIS",
+      "zh": "专题研究与综合训练",
+      "chapters": [
+        { "no": 31, "id": "ch31", "title": "社会阶层与财富分配专题", "src": "综合", "done": false },
+        { "no": 32, "id": "ch32", "title": "教育竞争与阶层再生产专题", "src": "综合", "done": false },
+        { "no": 33, "id": "ch33", "title": "权力、精英与社会控制专题", "src": "综合", "done": false },
+        { "no": 34, "id": "ch34", "title": "家庭变化与现代社会专题", "src": "综合", "done": false },
+        { "no": 35, "id": "ch35", "title": "互联网、社交媒体与数字社会专题", "src": "综合", "done": false },
+        { "no": 36, "id": "ch36", "title": "全球化、资本与社会变迁专题", "src": "综合", "done": false },
+        { "no": 37, "id": "ch37", "title": "社会运动与集体行动专题", "src": "综合", "done": false },
+        { "no": 38, "id": "ch38", "title": "现代社会中的个体与制度专题", "src": "综合", "done": false }
+      ]
+    }
+  ]
+}
